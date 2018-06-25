@@ -1,0 +1,10 @@
+<design:component>
+	 <design:attribute name="objectName" label="Object Name" />
+     <design:attribute name="field_API_text" label="Field API to show" />
+     <design:attribute name="field_API_val" label="Field API to return" />
+     <design:attribute name="limit" label="Record Limit" />
+    <design:attribute name="field_API_search" label="Field API to search" />
+    <design:attribute name="lookupIcon" label="Example - standard:opportunity" />
+    <design:attribute name="placeholder" label="Default text to show" />
+    <design:attribute name="selId" label="Output Variable" /> 
+</design:component>
