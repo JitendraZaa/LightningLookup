@@ -4,7 +4,7 @@
     
     <aura:attribute Name="server_result" type="object[]" access="private" /> 
      
-     <aura:attribute name="lookupIcon" type="String" access="public" default="standard:contact"/>
+     <aura:attribute name="lookupIcon" type="String" access="global" default="standard:contact"/>
     
     <aura:attribute name="objectName" type="String" access="global" description="Name of Object to be searched"/>
     <aura:attribute name="field_API_text" type="String" access="global" description="API Name of field, to be used to show text"/>

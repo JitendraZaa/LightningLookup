@@ -13,5 +13,9 @@
      <members>LexComponentLookupDemo</members>
      <name>FlowDefinition</name>
   </types>
+  <types>
+        <members>Lookup</members>
+        <name>ApexClass</name>
+    </types> 
     <version>42.0</version>
 </Package>
